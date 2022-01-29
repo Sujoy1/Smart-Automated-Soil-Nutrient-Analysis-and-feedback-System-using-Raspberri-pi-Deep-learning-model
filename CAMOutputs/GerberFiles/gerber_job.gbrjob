@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-05-23T11:20:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "avr_dip"
+        },
+        "Owner": "Shubham Roy <shubhamroy039@gmail.com>",
+        "Size": {
+            "X": 96.5,
+            "Y": 91.11
+        }
+    }
+}
